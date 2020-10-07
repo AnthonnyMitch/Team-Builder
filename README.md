@@ -4,7 +4,7 @@
   
    Generate a list of Employees of your company using this app. It will allow companies to organize their employees by name, id number, email, roles, and more.
   
-  <iframe src="https://drive.google.com/file/d/1b4S-rtxmtSP_n7eCkXYPfQIDLm3Z2Due/preview" width="640" height="480"></iframe>
+"https://drive.google.com/file/d/1b4S-rtxmtSP_n7eCkXYPfQIDLm3Z2Due/preview"
   
   ## Technologies use:
 
