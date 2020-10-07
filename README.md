@@ -32,8 +32,11 @@
  Instructions and examples for use:
  
   *Step 1. Start program by running the terminal "node app.js". 
-  *Step 2. answer all the question.  
+  
+  *Step 2. answer all the question.
+  
   *Step 3. Stop the program by selecting I don't want to add anymore team memebers.
+  
   *Step 4. open the output folder to check html file.
   
   
